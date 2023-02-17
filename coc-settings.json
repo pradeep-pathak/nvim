@@ -1,0 +1,10 @@
+{
+  "coc.preferences.formatOnSave": true,
+  "snippets.ultisnips.directories": [
+    "UltiSnips",
+    "~/.config/nvim/utils/snips"
+  ],
+  "coc.source.emoji.filetypes": [
+    "markdown"
+  ]
+}

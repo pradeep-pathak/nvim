@@ -10,7 +10,7 @@ To install this Neovim configuration, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/pradeep-pathak/my-neovim-config.git ~/.config/nvim
+git clone https://github.com/pradeep-pathak/nvim.git ~/.config/nvim
 ```
 2. Install vim-plug:
 ```bash

@@ -23,6 +23,6 @@ sudo apt install fzf ripgrep
 ```
 5. Install CoC extensions:
 ```
-:CocInstall coc-json coc-tsserver coc-snippets coc-emoji coc-vimlsp
+:CocInstall coc-json coc-tsserver coc-snippets coc-emoji coc-vimlsp coc-marketplace
 ```
 6. That's it! You should now be able to use this Neovim configuration.

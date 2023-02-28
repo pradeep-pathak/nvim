@@ -1,5 +1,7 @@
 # Neovim Configuration
 
+![screenshot](https://github.com/pradeep-pathak/nvim/blob/master/screenshot.png)
+
 This repository contains my personal Neovim configuration, including plugins and custom settings.
 
 To use this configuration, you will need to have Neovim installed on your system. If you don't already have Neovim installed, you can find instructions for your operating system [here](https://neovim.io/). Additionally, this configuration uses [vim-plug](https://github.com/junegunn/vim-plug) as a plugin manager, so you will need to install that as well.

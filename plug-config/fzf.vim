@@ -13,7 +13,7 @@ let g:fzf_history_dir = '~/.local/share/fzf-history'
 map <leader>f :Files<cr>
 map <leader>b :Buffers<cr>
 nnoremap <leader>g :Rg<cr>
-nnoremap <leader>t :Tags<cr>
+" nnoremap <leader>t :Tags<cr>
 nnoremap <leader>m :Marks<cr>
 
 

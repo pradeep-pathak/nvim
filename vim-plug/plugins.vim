@@ -8,13 +8,18 @@ endif
 
 call plug#begin('~/.config/nvim/autoload/plugged')
 Plug 'sheerun/vim-polyglot'
+Plug 'jwalton512/vim-blade'
+Plug 'stanangeloff/php.vim'
 Plug 'preservim/nerdtree'
 Plug 'tpope/vim-commentary'
 Plug 'jiangmiao/auto-pairs'
+" Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'joshdick/onedark.vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'tribela/vim-transparent'
+Plug 'voldikss/vim-floaterm'
 Plug 'francoiscabrol/ranger.vim'
 Plug 'rbgrouleff/bclose.vim'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }

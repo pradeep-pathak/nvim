@@ -6,5 +6,6 @@
   ],
   "coc.source.emoji.filetypes": [
     "markdown"
-  ]
+  ],
+  "snippets.ultisnips.pythonPrompt": false
 }
